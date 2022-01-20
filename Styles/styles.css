@@ -1,0 +1,85 @@
+body {
+  font-family: "Roboto", sans-serif;
+}
+header {
+  text-align: center;
+}
+
+h1 {
+  color: rgb(113, 14, 194);
+  margin: 20px 0px 30px 0px;
+  font-size: 53px;
+}
+
+img {
+  width: 250px;
+}
+
+div {
+  text-align: left;
+}
+
+a {
+  text-decoration: none;
+}
+
+main {
+  background-color: rgb(119, 75, 224);
+  width: 780px;
+  margin: 40px auto 30px auto;
+  padding: 30px 20px 30px 20px;
+  color: rgb(255, 243, 188);
+  border-radius: 10px;
+  box-shadow: 1px 1px 5px rgba(0, 0, 0, 0.7);
+}
+
+h3 {
+  font-size: 24px;
+  color: white;
+}
+
+.link{
+  color: black;
+  background-color: white;
+  padding: 1px 5px;
+  border-radius: 5px;
+}
+
+footer {
+  text-align: center;
+}
+
+a{
+  padding: 8px 20px;
+  color: black;
+  background-color: rgb(255, 216, 41);
+  border-radius: 6px;
+  box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.7);
+}
+
+footer p {
+  margin: 30px 10px;
+  color:grey;
+}
+
+#p2,
+#p3,
+#p4,
+#p5,
+#p6 {
+  padding-left: 20px;
+}
+
+#p2,#p4,#p5{
+  border-left: 5px solid yellow;
+  color: rgb(255, 255, 133);
+}
+
+#p9,#p10,#p11,#p12,#p13{
+  padding-left: 20px;
+}
+
+#p11,#p13{
+  border-left: 5px solid yellow;
+  color: rgb(255, 255, 133);
+}
